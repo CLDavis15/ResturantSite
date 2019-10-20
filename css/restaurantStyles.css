@@ -1,0 +1,83 @@
+
+
+
+header, footer {
+    background-color: darkblue;
+    color: white;
+  }
+  
+  header {
+    height: 150px;
+    padding: 20px 10px 30px 10px;
+  }
+  
+  footer {
+    height: 125px;
+    padding: 20px 10px 30px 10px;
+  }
+  
+  header h1 {
+    font-size: 48px;
+  
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+  }
+  
+  header h2 {
+    margin-right: 10px;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  nav {
+    margin-top: 4px;
+    border-top: 2px solid darkblue;
+    border-bottom: 2px groove darkblue;
+    padding: 12px 0px;
+  }
+  
+  nav a {
+    text-decoration: underline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  
+  }
+  
+  nav .nav-item {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  nav .btn {
+    background-color: darkblue;
+    color: white;
+  }
+
+  nav a:link {
+    color: red;
+  }
+  
+  nav a:visited {
+    color: white;
+  }
+  
+  nav a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  
+  .nav-link:active {
+    text-decoration: none;
+    color: red;
+  }
+  
+  .jumbotron {
+    background-color: whitesmoke;
+    text-align: center;
+  }
+
