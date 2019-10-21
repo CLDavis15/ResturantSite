@@ -1,4 +1,4 @@
-# RestaurantSite
+# RestaurantSite 3
 
 Created a Restaurant Website with HTML, CSS, and JavaScript.
 
