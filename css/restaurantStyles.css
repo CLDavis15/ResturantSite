@@ -81,3 +81,6 @@ header, footer {
     text-align: center;
   }
 
+body {
+  background-color: lightsalmon;
+}
